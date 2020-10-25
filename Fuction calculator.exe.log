@@ -1,0 +1,3436 @@
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431306. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x948 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 06 2020 23:55:36
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431306. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x948 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 06 2020 23:55:36
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431306. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x3E18 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 06 2020 23:55:59
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431306. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x3E18 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 06 2020 23:55:59
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431306. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x46F8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 06 2020 23:56:23
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431306. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x46F8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 06 2020 23:56:23
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x15E0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:10:26
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x15E0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:10:26
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x1698 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:11:21
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x1698 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:11:21
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x97C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:13:57
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x97C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr  6 2020 23:25:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:13:57
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0xCE4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 18:15:50, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:15:57
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0xCE4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 18:15:50, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:15:57
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D8A9 в функции txLine() в файле E:/Calculator/TXlib.h на строке 12143. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x181C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0041D8A9 in E:\Calculator\Fuction calculator.exe: txLine() at E:/Calculator/TXlib.h (12143)
+
+# 1 0x0042CABE in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (147):
+
+    145: OrdinateY2=model(OrdinateY2);
+    146: }
+=>  147: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    148: }
+    149: }
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12143):
+
+  12141: $1  if (_TX_DEFAULT_HDC_FAILED (dc)) return false;
+  12142: 
+=>12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+  12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (147):
+
+    145: OrdinateY2=model(OrdinateY2);
+    146: }
+=>  147: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    148: }
+    149: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 18:16:28, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:16:35
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D8A9 в функции txLine() в файле E:/Calculator/TXlib.h на строке 12143. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x181C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0041D8A9 in E:\Calculator\Fuction calculator.exe: txLine() at E:/Calculator/TXlib.h (12143)
+
+# 1 0x0042CABE in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (147):
+
+    145: OrdinateY2=model(OrdinateY2);
+    146: }
+=>  147: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    148: }
+    149: }
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12143):
+
+  12141: $1  if (_TX_DEFAULT_HDC_FAILED (dc)) return false;
+  12142: 
+=>12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+  12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (147):
+
+    145: OrdinateY2=model(OrdinateY2);
+    146: }
+=>  147: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    148: }
+    149: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 18:16:28, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:16:36
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x680 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 18:19:08, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:19:16
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x680 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 18:19:08, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:19:16
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0xF00 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 18:20:39, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:20:47
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0xF00 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 18:20:39, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 18:20:47
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x19A8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 21:37:45, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 21:37:53
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x19A8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 21:37:45, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 21:37:54
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x174C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 21:37:45, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 22:56:08
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 659. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x174C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (659):
+
+    657: {
+    658: case 0:
+=>  659: FuctionType=Conversion(str)*Sings[0];
+    660: break;
+    661: case 1:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (641):
+
+    639: fout.close();
+    640: }
+=>  641: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    642: {
+    643: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 21:37:45, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 22:56:07
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 657. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x7AC (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (657):
+
+    655: {
+    656: case 1:
+=>  657: FuctionType=Conversion(str)*Sings[0];
+    658: break;
+    659: case 2:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (639):
+
+    637: fout.close();
+    638: }
+=>  639: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    640: {
+    641: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 23:02:15, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 23:02:24
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x00431070 в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 657. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x7AC (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00431070 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (657):
+
+    655: {
+    656: case 1:
+=>  657: FuctionType=Conversion(str)*Sings[0];
+    658: break;
+    659: case 2:
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (639):
+
+    637: fout.close();
+    638: }
+=>  639: if(txMouseY()>=715&&txMouseY()<=773&&txMouseX()>=810&&txMouseX()<=874&&txMouseButtons()== 1)
+    640: {
+    641: string str;
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 10 2020 23:02:15, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 10 2020 23:02:24
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D8A9 в функции txLine() в файле E:/Calculator/TXlib.h на строке 12143. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x1998 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0041D8A9 in E:\Calculator\Fuction calculator.exe: txLine() at E:/Calculator/TXlib.h (12143)
+
+# 1 0x0042CC60 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (164):
+
+    162: OrdinateY2=model(OrdinateY2);
+    163: }
+=>  164: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    165: }
+    166: }
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12143):
+
+  12141: $1  if (_TX_DEFAULT_HDC_FAILED (dc)) return false;
+  12142: 
+=>12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+  12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (164):
+
+    162: OrdinateY2=model(OrdinateY2);
+    163: }
+=>  164: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    165: }
+    166: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 14 2020 15:40:47, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 14 2020 15:40:56
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D8A9 в функции txLine() в файле E:/Calculator/TXlib.h на строке 12143. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x1998 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0041D8A9 in E:\Calculator\Fuction calculator.exe: txLine() at E:/Calculator/TXlib.h (12143)
+
+# 1 0x0042CC60 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (164):
+
+    162: OrdinateY2=model(OrdinateY2);
+    163: }
+=>  164: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    165: }
+    166: }
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12143):
+
+  12141: $1  if (_TX_DEFAULT_HDC_FAILED (dc)) return false;
+  12142: 
+=>12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+  12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (164):
+
+    162: OrdinateY2=model(OrdinateY2);
+    163: }
+=>  164: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    165: }
+    166: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 14 2020 15:40:47, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 14 2020 15:40:55
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3 в функции txLine() в файле E:/Calculator/TXlib.h на строке 12144. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0xE84 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0041D9E3 in E:\Calculator\Fuction calculator.exe: txLine() at E:/Calculator/TXlib.h (12144)
+
+# 1 0x0042D381 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (247):
+
+    245: OrdinateY2=model(OrdinateY2);
+    246: }
+=>  247: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    248: }
+    249: }
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (247):
+
+    245: OrdinateY2=model(OrdinateY2);
+    246: }
+=>  247: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    248: }
+    249: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 14 2020 15:40:47, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 14 2020 17:19:58
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3 в функции txLine() в файле E:/Calculator/TXlib.h на строке 12144. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0xE84 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0041D9E3 in E:\Calculator\Fuction calculator.exe: txLine() at E:/Calculator/TXlib.h (12144)
+
+# 1 0x0042D381 in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (247):
+
+    245: OrdinateY2=model(OrdinateY2);
+    246: }
+=>  247: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    248: }
+    249: }
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (247):
+
+    245: OrdinateY2=model(OrdinateY2);
+    246: }
+=>  247: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    248: }
+    249: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 14 2020 15:40:47, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 14 2020 17:19:57
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Деление на ноль при операции с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_DIVIDE_BY_ZERO (0xC000008E) при выполнении кода по адресу 0x0042D03F в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 209. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005162F4 (32-bit), Flags: CMdRe0, Thread: 0x4F0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0042D03F in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (209):
+
+    207: AbcissaX=i;
+    208: AbcissaX2=i+0.03;
+=>  209: OrdinateY2=(1/(tan(AbcissaX2*ParametrA)))*ParametrB+ParametrC;
+    210: OrdinateY=(1/(tan(AbcissaX*ParametrA)))*ParametrB+ParametrC;
+    211: txSetColor(TX_BLACK);
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (77):
+
+     75: //////////////////////
+     76: ///ГРАФИК ФУНЦИИ/////
+=>   77: txSetColor(TX_BLACK);
+     78: ///линейная
+     79: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 15 2020 00:54:21, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 15 2020 00:54:28
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Деление на ноль при операции с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_DIVIDE_BY_ZERO (0xC000008E) при выполнении кода по адресу 0x0042D03F в функции main() в файле E:/Calculator/Fuction calculator.cpp на строке 209. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005162F4 (32-bit), Flags: CMdRe0, Thread: 0x4F0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0042D03F in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (209):
+
+    207: AbcissaX=i;
+    208: AbcissaX2=i+0.03;
+=>  209: OrdinateY2=(1/(tan(AbcissaX2*ParametrA)))*ParametrB+ParametrC;
+    210: OrdinateY=(1/(tan(AbcissaX*ParametrA)))*ParametrB+ParametrC;
+    211: txSetColor(TX_BLACK);
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (77):
+
+     75: //////////////////////
+     76: ///ГРАФИК ФУНЦИИ/////
+=>   77: txSetColor(TX_BLACK);
+     78: ///линейная
+     79: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 15 2020 00:54:21, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 15 2020 00:54:29
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3 в функции txLine() в файле E:/Calculator/TXlib.h на строке 12144. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x4F0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0041D9E3 in E:\Calculator\Fuction calculator.exe: txLine() at E:/Calculator/TXlib.h (12144)
+
+# 1 0x0042D36E in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (245):
+
+    243: OrdinateY2=model(OrdinateY2);
+    244: }
+=>  245: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    246: }
+    247: }
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (245):
+
+    243: OrdinateY2=model(OrdinateY2);
+    244: }
+=>  245: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    246: }
+    247: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 15 2020 01:16:06, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 15 2020 01:16:13
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3 в функции txLine() в файле E:/Calculator/TXlib.h на строке 12144. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x4F0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0041D9E3 in E:\Calculator\Fuction calculator.exe: txLine() at E:/Calculator/TXlib.h (12144)
+
+# 1 0x0042D36E in E:\Calculator\Fuction calculator.exe: main() at E:/Calculator/Fuction calculator.cpp (245):
+
+    243: OrdinateY2=model(OrdinateY2);
+    244: }
+=>  245: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    246: }
+    247: }
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (245):
+
+    243: OrdinateY2=model(OrdinateY2);
+    244: }
+=>  245: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    246: }
+    247: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 15 2020 01:16:06, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 15 2020 01:16:13
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D8A9. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x3864 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12143):
+
+  12141: $1  if (_TX_DEFAULT_HDC_FAILED (dc)) return false;
+  12142: 
+=>12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+  12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (219):
+
+    217: OrdinateY2=model(OrdinateY2);
+    218: }
+=>  219: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    220: }
+    221: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 15 2020 01:16:06, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 19:58:27
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D8A9. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005172F4 (32-bit), Flags: CMdRe0, Thread: 0x3864 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12143):
+
+  12141: $1  if (_TX_DEFAULT_HDC_FAILED (dc)) return false;
+  12142: 
+=>12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+  12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (219):
+
+    217: OrdinateY2=model(OrdinateY2);
+    218: }
+=>  219: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    220: }
+    221: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 15 2020 01:16:06, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 19:58:27
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x76164192. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x2938 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (77):
+
+     75: //////////////////////
+     76: ///ГРАФИК ФУНЦИИ/////
+=>   77: txSetColor(TX_BLACK);
+     78: ///линейная
+     79: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 22:25:27, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 22:25:34
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x76164192. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x2938 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (77):
+
+     75: //////////////////////
+     76: ///ГРАФИК ФУНЦИИ/////
+=>   77: txSetColor(TX_BLACK);
+     78: ///линейная
+     79: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 22:25:27, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 22:25:34
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x76164192. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x920 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (306):
+
+    304: OrdinateY2=model(OrdinateY2);
+    305: }
+=>  306: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    307: }
+    308: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 22:29:42, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 22:29:46
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x76164192. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x920 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (306):
+
+    304: OrdinateY2=model(OrdinateY2);
+    305: }
+=>  306: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    307: }
+    308: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 22:29:42, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 22:29:46
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x76164192. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1B00 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (289):
+
+    287: OrdinateY2=model(OrdinateY2);
+    288: }
+=>  289: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    290: }
+    291: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 22:33:46, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 22:33:51
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x76164192. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1B00 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (289):
+
+    287: OrdinateY2=model(OrdinateY2);
+    288: }
+=>  289: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    290: }
+    291: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 22:33:46, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 22:33:51
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x76164192. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x3AC8 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (289):
+
+    287: OrdinateY2=model(OrdinateY2);
+    288: }
+=>  289: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    290: }
+    291: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 22:34:35, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 22:34:41
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x76164192. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x3AC8 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (289):
+
+    287: OrdinateY2=model(OrdinateY2);
+    288: }
+=>  289: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    290: }
+    291: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 22:34:35, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 22:34:41
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232 в функции RaiseException(). Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0xCAC (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x75BAC232 in C:\Windows\System32\KERNELBASE.dll: RaiseException()
+# 1 0x74EE1C0D in C:\Windows\System32\msvcrt.dll: modf()
+# 2 0x74EE19D3 in C:\Windows\System32\msvcrt.dll: modf()
+# 3 0x74EE439A in C:\Windows\System32\msvcrt.dll: modf()
+# 4 0x74EDE820 in C:\Windows\System32\msvcrt.dll: modf()
+# 5 0x74ED2EA4 in C:\Windows\System32\msvcrt.dll: CIasin()
+# 6 0x0040127D in E:\Calculator\Fuction calculator.exe: __mingw_CRTStartup()
+# 7 0x004012A5 in E:\Calculator\Fuction calculator.exe: mainCRTStartup()
+# 8 0x77A20969 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+# 9 0x77A20934 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (290):
+
+    288: OrdinateY2=model(OrdinateY2);
+    289: }
+=>  290: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    291: }
+    292: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 23:25:58, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 23:26:04
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232 в функции RaiseException(). Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0xCAC (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x75BAC232 in C:\Windows\System32\KERNELBASE.dll: RaiseException()
+# 1 0x74EE1C0D in C:\Windows\System32\msvcrt.dll: modf()
+# 2 0x74EE19D3 in C:\Windows\System32\msvcrt.dll: modf()
+# 3 0x74EE439A in C:\Windows\System32\msvcrt.dll: modf()
+# 4 0x74EDE820 in C:\Windows\System32\msvcrt.dll: modf()
+# 5 0x74ED2EA4 in C:\Windows\System32\msvcrt.dll: CIasin()
+# 6 0x0040127D in E:\Calculator\Fuction calculator.exe: __mingw_CRTStartup()
+# 7 0x004012A5 in E:\Calculator\Fuction calculator.exe: mainCRTStartup()
+# 8 0x77A20969 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+# 9 0x77A20934 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (290):
+
+    288: OrdinateY2=model(OrdinateY2);
+    289: }
+=>  290: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    291: }
+    292: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 23:25:58, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 23:26:04
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232 в функции RaiseException(). Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1558 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x75BAC232 in C:\Windows\System32\KERNELBASE.dll: RaiseException()
+# 1 0x74EE1C0D in C:\Windows\System32\msvcrt.dll: modf()
+# 2 0x74EE19D3 in C:\Windows\System32\msvcrt.dll: modf()
+# 3 0x74EE439A in C:\Windows\System32\msvcrt.dll: modf()
+# 4 0x74EDE820 in C:\Windows\System32\msvcrt.dll: modf()
+# 5 0x74ED2EA4 in C:\Windows\System32\msvcrt.dll: CIasin()
+# 6 0x0040127D in E:\Calculator\Fuction calculator.exe: __mingw_CRTStartup()
+# 7 0x004012A5 in E:\Calculator\Fuction calculator.exe: mainCRTStartup()
+# 8 0x77A20969 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+# 9 0x77A20934 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (290):
+
+    288: OrdinateY2=model(OrdinateY2);
+    289: }
+=>  290: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    291: }
+    292: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 23:27:43, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 23:27:49
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232 в функции RaiseException(). Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1558 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x75BAC232 in C:\Windows\System32\KERNELBASE.dll: RaiseException()
+# 1 0x74EE1C0D in C:\Windows\System32\msvcrt.dll: modf()
+# 2 0x74EE19D3 in C:\Windows\System32\msvcrt.dll: modf()
+# 3 0x74EE439A in C:\Windows\System32\msvcrt.dll: modf()
+# 4 0x74EDE820 in C:\Windows\System32\msvcrt.dll: modf()
+# 5 0x74ED2EA4 in C:\Windows\System32\msvcrt.dll: CIasin()
+# 6 0x0040127D in E:\Calculator\Fuction calculator.exe: __mingw_CRTStartup()
+# 7 0x004012A5 in E:\Calculator\Fuction calculator.exe: mainCRTStartup()
+# 8 0x77A20969 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+# 9 0x77A20934 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (290):
+
+    288: OrdinateY2=model(OrdinateY2);
+    289: }
+=>  290: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    291: }
+    292: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 23:27:43, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 23:27:49
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232 в функции RaiseException(). Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1C74 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x75BAC232 in C:\Windows\System32\KERNELBASE.dll: RaiseException()
+# 1 0x74EE1C0D in C:\Windows\System32\msvcrt.dll: modf()
+# 2 0x74EE19D3 in C:\Windows\System32\msvcrt.dll: modf()
+# 3 0x74EE439A in C:\Windows\System32\msvcrt.dll: modf()
+# 4 0x74EDE820 in C:\Windows\System32\msvcrt.dll: modf()
+# 5 0x74ED2EA4 in C:\Windows\System32\msvcrt.dll: CIasin()
+# 6 0x0040127D in E:\Calculator\Fuction calculator.exe: __mingw_CRTStartup()
+# 7 0x004012A5 in E:\Calculator\Fuction calculator.exe: mainCRTStartup()
+# 8 0x77A20969 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+# 9 0x77A20934 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (290):
+
+    288: OrdinateY2=model(OrdinateY2);
+    289: }
+=>  290: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    291: }
+    292: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 23:33:51, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 23:33:57
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232 в функции RaiseException(). Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1C74 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x75BAC232 in C:\Windows\System32\KERNELBASE.dll: RaiseException()
+# 1 0x74EE1C0D in C:\Windows\System32\msvcrt.dll: modf()
+# 2 0x74EE19D3 in C:\Windows\System32\msvcrt.dll: modf()
+# 3 0x74EE439A in C:\Windows\System32\msvcrt.dll: modf()
+# 4 0x74EDE820 in C:\Windows\System32\msvcrt.dll: modf()
+# 5 0x74ED2EA4 in C:\Windows\System32\msvcrt.dll: CIasin()
+# 6 0x0040127D in E:\Calculator\Fuction calculator.exe: __mingw_CRTStartup()
+# 7 0x004012A5 in E:\Calculator\Fuction calculator.exe: mainCRTStartup()
+# 8 0x77A20969 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+# 9 0x77A20934 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (290):
+
+    288: OrdinateY2=model(OrdinateY2);
+    289: }
+=>  290: txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    291: }
+    292: }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 23:33:51, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 23:33:57
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232 в функции RaiseException(). Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x188C (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x75BAC232 in C:\Windows\System32\KERNELBASE.dll: RaiseException()
+# 1 0x74EE1C0D in C:\Windows\System32\msvcrt.dll: modf()
+# 2 0x74EE19D3 in C:\Windows\System32\msvcrt.dll: modf()
+# 3 0x74EE439A in C:\Windows\System32\msvcrt.dll: modf()
+# 4 0x74EDE820 in C:\Windows\System32\msvcrt.dll: modf()
+# 5 0x74ED337E in C:\Windows\System32\msvcrt.dll: CIlog()
+# 6 0x0040127D in E:\Calculator\Fuction calculator.exe: __mingw_CRTStartup()
+# 7 0x004012A5 in E:\Calculator\Fuction calculator.exe: mainCRTStartup()
+# 8 0x77A20969 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+# 9 0x77A20934 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (77):
+
+     75: //////////////////////
+     76: ///ГРАФИК ФУНЦИИ/////
+=>   77: txSetColor(TX_BLACK);
+     78: ///линейная
+     79: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 23:44:47, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 23:44:53
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232 в функции RaiseException(). Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x188C (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x75BAC232 in C:\Windows\System32\KERNELBASE.dll: RaiseException()
+# 1 0x74EE1C0D in C:\Windows\System32\msvcrt.dll: modf()
+# 2 0x74EE19D3 in C:\Windows\System32\msvcrt.dll: modf()
+# 3 0x74EE439A in C:\Windows\System32\msvcrt.dll: modf()
+# 4 0x74EDE820 in C:\Windows\System32\msvcrt.dll: modf()
+# 5 0x74ED337E in C:\Windows\System32\msvcrt.dll: CIlog()
+# 6 0x0040127D in E:\Calculator\Fuction calculator.exe: __mingw_CRTStartup()
+# 7 0x004012A5 in E:\Calculator\Fuction calculator.exe: mainCRTStartup()
+# 8 0x77A20969 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+# 9 0x77A20934 in C:\Windows\SYSTEM32\ntdll.dll: RtlSubscribeWnfStateChangeNotification()
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (77):
+
+     75: //////////////////////
+     76: ///ГРАФИК ФУНЦИИ/////
+=>   77: txSetColor(TX_BLACK);
+     78: ///линейная
+     79: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 19 2020 23:44:47, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 19 2020 23:44:53
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x2354 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (87):
+
+     85: //////////////////////
+     86: ///ГРАФИК ФУНЦИИ/////
+=>   87: txSetColor(TX_BLACK);
+     88: ///линейная
+     89: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 24 2020 13:58:54, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 24 2020 13:59:00
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x2354 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (87):
+
+     85: //////////////////////
+     86: ///ГРАФИК ФУНЦИИ/////
+=>   87: txSetColor(TX_BLACK);
+     88: ///линейная
+     89: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 24 2020 13:58:54, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 24 2020 13:59:00
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x7D0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (87):
+
+     85: //////////////////////
+     86: ///ГРАФИК ФУНЦИИ/////
+=>   87: txSetColor(TX_BLACK);
+     88: ///линейная
+     89: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 24 2020 13:59:18, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 24 2020 13:59:24
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x7D0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (87):
+
+     85: //////////////////////
+     86: ///ГРАФИК ФУНЦИИ/////
+=>   87: txSetColor(TX_BLACK);
+     88: ///линейная
+     89: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 24 2020 13:59:18, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 24 2020 13:59:24
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1664 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (87):
+
+     85: //////////////////////
+     86: ///ГРАФИК ФУНЦИИ/////
+=>   87: txSetColor(TX_BLACK);
+     88: ///линейная
+     89: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 24 2020 14:33:04, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 24 2020 14:33:12
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x75BAC232. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1664 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in int main() at E:\Calculator\Fuction calculator.cpp (87):
+
+     85: //////////////////////
+     86: ///ГРАФИК ФУНЦИИ/////
+=>   87: txSetColor(TX_BLACK);
+     88: ///линейная
+     89: if(FuctionType==1)
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Apr 24 2020 14:33:04, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Apr 24 2020 14:33:12
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x2588 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (265):
+
+    263:     OrdinateY2=model(OrdinateY2);
+    264:     }
+=>  265:     txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    266:     }
+    267:     }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Oct 25 2020 20:25:16, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Oct 25 2020 20:25:23
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x2588 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (265):
+
+    263:     OrdinateY2=model(OrdinateY2);
+    264:     }
+=>  265:     txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    266:     }
+    267:     }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Oct 25 2020 20:25:16, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Oct 25 2020 20:25:23
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D8A9. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1068 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12143):
+
+  12141: $1  if (_TX_DEFAULT_HDC_FAILED (dc)) return false;
+  12142: 
+=>12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+  12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (265):
+
+    263:     OrdinateY2=model(OrdinateY2);
+    264:     }
+=>  265:     txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    266:     }
+    267:     }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Oct 25 2020 20:26:17, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Oct 25 2020 20:26:24
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D8A9. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1068 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12143):
+
+  12141: $1  if (_TX_DEFAULT_HDC_FAILED (dc)) return false;
+  12142: 
+=>12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+  12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (265):
+
+    263:     OrdinateY2=model(OrdinateY2);
+    264:     }
+=>  265:     txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    266:     }
+    267:     }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Oct 25 2020 20:26:17, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Oct 25 2020 20:26:24
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x558 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (265):
+
+    263:     OrdinateY2=model(OrdinateY2);
+    264:     }
+=>  265:     txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    266:     }
+    267:     }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Oct 25 2020 20:29:19, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Oct 25 2020 20:29:26
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x558 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (265):
+
+    263:     OrdinateY2=model(OrdinateY2);
+    264:     }
+=>  265:     txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    266:     }
+    267:     }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Oct 25 2020 20:29:19, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Oct 25 2020 20:29:26
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1F18 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (265):
+
+    263:     OrdinateY2=model(OrdinateY2);
+    264:     }
+=>  265:     txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    266:     }
+    267:     }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Oct 25 2020 20:31:41, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Oct 25 2020 20:31:47
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: E:\Calculator\Fuction calculator.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+Недопустимая операция с плавающей точкой.
+
+#1: Исключение EXCEPTION_FLT_INVALID_OPERATION (0xC0000090) при выполнении кода по адресу 0x0041D9E3. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400], Instance: 0x005182F4 (32-bit), Flags: CMdRe0, Thread: 0x1F18 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Стек вызовов TX:
+
+# 0 in bool {anonymous}::TX::txLine(double, double, double, double, HDC) at E:\Calculator\TXlib.h (12144):
+
+  12142: 
+  12143: $   bool ok  = txGDI ((Win32::MoveToEx (dc, ROUND (x0), ROUND (y0), NULL)), dc);
+=>12144: $        ok &= txGDI ((Win32::LineTo   (dc, ROUND (x1), ROUND (y1)      )), dc);
+  12145: 
+  12146: $   return ok;
+
+# 1 in int main() at E:\Calculator\Fuction calculator.cpp (265):
+
+    263:     OrdinateY2=model(OrdinateY2);
+    264:     }
+=>  265:     txLine(AbcissaX*(Scale)+400+XMove,(OrdinateY*(-Scale)+400+YMove),AbcissaX2*(Scale)+400+XMove,(OrdinateY2*(-Scale)+400+YMove));
+    266:     }
+    267:     }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 165, Date: 2020-03-22 04:12:35 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	E:\Calculator\TXlib.h
+Compiled:	Oct 25 2020 20:31:41, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Oct 25 2020 20:31:47
+
+Run file:	E:\Calculator\Fuction calculator.exe
+Directory:	E:\Calculator
+
+--------------------------------------------------
